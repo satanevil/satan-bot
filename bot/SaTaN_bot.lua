@@ -238,7 +238,7 @@ function create_config( )
     sudo_users = {144132967,107264463,97343360,107908156},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [The Great Satan
+    about_text = [[The Great Satan
     Admins:
     @TnT_BoY
     @Hell-admin1
